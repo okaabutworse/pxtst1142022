@@ -1,5 +1,7 @@
-if this works
-cool!
-hi
-bye
-lol
+UPDATE 11/4/2022 Lightspeed unblocked repl.co so hosting was switched to replit.
+LCISD Proxies are working again!
+
+Proxy 1 - https://tacotaco.0kaa0.repl.co
+Proxy 2 - https://cl.0kaa0.repl.co
+
+You are running on the latest version of UFB :)
