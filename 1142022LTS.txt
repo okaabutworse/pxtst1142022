@@ -8,3 +8,4 @@ Proxy 3 - https://smoke.0kaa0.repl.co
 You are running on the latest version of UFB :)
 If you are running an outdated version, this will no longer work and you will need to find updates at https://github.com/okaa-0
 Browse freely!
+PS: Launch web urls from console by using commands listed if you cannot access the internet without being forced.
